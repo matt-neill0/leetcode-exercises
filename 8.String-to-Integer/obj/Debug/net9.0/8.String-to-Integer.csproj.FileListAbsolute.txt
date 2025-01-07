@@ -1,0 +1,14 @@
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.GeneratedMSBuildEditorConfig.editorconfig
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.AssemblyInfoInputs.cache
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.AssemblyInfo.cs
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.csproj.CoreCompileInputs.cache
+d:\Leetcode stuff\8.String-to-Integer\bin\Debug\net9.0\8.String-to-Integer.exe
+d:\Leetcode stuff\8.String-to-Integer\bin\Debug\net9.0\8.String-to-Integer.deps.json
+d:\Leetcode stuff\8.String-to-Integer\bin\Debug\net9.0\8.String-to-Integer.runtimeconfig.json
+d:\Leetcode stuff\8.String-to-Integer\bin\Debug\net9.0\8.String-to-Integer.dll
+d:\Leetcode stuff\8.String-to-Integer\bin\Debug\net9.0\8.String-to-Integer.pdb
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.dll
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\refint\8.String-to-Integer.dll
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.pdb
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\8.String-to-Integer.genruntimeconfig.cache
+d:\Leetcode stuff\8.String-to-Integer\obj\Debug\net9.0\ref\8.String-to-Integer.dll

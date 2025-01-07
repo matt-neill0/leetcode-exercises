@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "8.String-to-Integer/1.0.0": {
+        "runtime": {
+          "8.String-to-Integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8.String-to-Integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

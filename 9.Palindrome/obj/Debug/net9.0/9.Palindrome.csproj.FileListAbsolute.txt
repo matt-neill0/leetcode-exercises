@@ -1,0 +1,14 @@
+D:\Leetcode stuff\9.Palindrome\bin\Debug\net9.0\9.Palindrome.exe
+D:\Leetcode stuff\9.Palindrome\bin\Debug\net9.0\9.Palindrome.deps.json
+D:\Leetcode stuff\9.Palindrome\bin\Debug\net9.0\9.Palindrome.runtimeconfig.json
+D:\Leetcode stuff\9.Palindrome\bin\Debug\net9.0\9.Palindrome.dll
+D:\Leetcode stuff\9.Palindrome\bin\Debug\net9.0\9.Palindrome.pdb
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.AssemblyInfoInputs.cache
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.AssemblyInfo.cs
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.csproj.CoreCompileInputs.cache
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.dll
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\refint\9.Palindrome.dll
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.pdb
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\9.Palindrome.genruntimeconfig.cache
+D:\Leetcode stuff\9.Palindrome\obj\Debug\net9.0\ref\9.Palindrome.dll
