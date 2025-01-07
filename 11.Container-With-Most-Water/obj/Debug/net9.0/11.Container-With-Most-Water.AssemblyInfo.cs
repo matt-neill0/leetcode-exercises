@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11.Container-With-Most-Water")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26843b0841fe362496f5f29e8d5639ea52ca8a63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c415667399972a3fd7b52139938c1bc949f410db")]
 [assembly: System.Reflection.AssemblyProductAttribute("11.Container-With-Most-Water")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11.Container-With-Most-Water")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

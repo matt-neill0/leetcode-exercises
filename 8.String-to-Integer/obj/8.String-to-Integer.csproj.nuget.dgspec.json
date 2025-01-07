@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Leetcode stuff\\8.String-to-Integer\\8.String-to-Integer.csproj": {}
+    "D:\\LeetcodeStuff\\8.String-to-Integer\\8.String-to-Integer.csproj": {}
   },
   "projects": {
-    "D:\\Leetcode stuff\\8.String-to-Integer\\8.String-to-Integer.csproj": {
+    "D:\\LeetcodeStuff\\8.String-to-Integer\\8.String-to-Integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Leetcode stuff\\8.String-to-Integer\\8.String-to-Integer.csproj",
+        "projectUniqueName": "D:\\LeetcodeStuff\\8.String-to-Integer\\8.String-to-Integer.csproj",
         "projectName": "8.String-to-Integer",
-        "projectPath": "D:\\Leetcode stuff\\8.String-to-Integer\\8.String-to-Integer.csproj",
+        "projectPath": "D:\\LeetcodeStuff\\8.String-to-Integer\\8.String-to-Integer.csproj",
         "packagesPath": "C:\\Users\\mattn\\.nuget\\packages\\",
-        "outputPath": "D:\\Leetcode stuff\\8.String-to-Integer\\obj\\",
+        "outputPath": "D:\\LeetcodeStuff\\8.String-to-Integer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

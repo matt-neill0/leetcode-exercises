@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Leetcode stuff\\9.Palindrome\\9.Palindrome.csproj": {}
+    "D:\\LeetcodeStuff\\9.Palindrome\\9.Palindrome.csproj": {}
   },
   "projects": {
-    "D:\\Leetcode stuff\\9.Palindrome\\9.Palindrome.csproj": {
+    "D:\\LeetcodeStuff\\9.Palindrome\\9.Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Leetcode stuff\\9.Palindrome\\9.Palindrome.csproj",
+        "projectUniqueName": "D:\\LeetcodeStuff\\9.Palindrome\\9.Palindrome.csproj",
         "projectName": "9.Palindrome",
-        "projectPath": "D:\\Leetcode stuff\\9.Palindrome\\9.Palindrome.csproj",
+        "projectPath": "D:\\LeetcodeStuff\\9.Palindrome\\9.Palindrome.csproj",
         "packagesPath": "C:\\Users\\mattn\\.nuget\\packages\\",
-        "outputPath": "D:\\Leetcode stuff\\9.Palindrome\\obj\\",
+        "outputPath": "D:\\LeetcodeStuff\\9.Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

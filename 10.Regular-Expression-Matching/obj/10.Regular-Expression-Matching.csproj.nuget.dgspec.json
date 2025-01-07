@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Leetcode stuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj": {}
+    "D:\\LeetcodeStuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj": {}
   },
   "projects": {
-    "d:\\Leetcode stuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj": {
+    "D:\\LeetcodeStuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Leetcode stuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj",
+        "projectUniqueName": "D:\\LeetcodeStuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj",
         "projectName": "10.Regular-Expression-Matching",
-        "projectPath": "d:\\Leetcode stuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj",
+        "projectPath": "D:\\LeetcodeStuff\\10.Regular-Expression-Matching\\10.Regular-Expression-Matching.csproj",
         "packagesPath": "C:\\Users\\mattn\\.nuget\\packages\\",
-        "outputPath": "d:\\Leetcode stuff\\10.Regular-Expression-Matching\\obj\\",
+        "outputPath": "D:\\LeetcodeStuff\\10.Regular-Expression-Matching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

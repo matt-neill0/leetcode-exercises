@@ -1,0 +1,15 @@
+D:\LeetcodeStuff\12.Integer-to-Roman\bin\Debug\net9.0\12.Integer-to-Roman.exe
+D:\LeetcodeStuff\12.Integer-to-Roman\bin\Debug\net9.0\12.Integer-to-Roman.deps.json
+D:\LeetcodeStuff\12.Integer-to-Roman\bin\Debug\net9.0\12.Integer-to-Roman.runtimeconfig.json
+D:\LeetcodeStuff\12.Integer-to-Roman\bin\Debug\net9.0\12.Integer-to-Roman.dll
+D:\LeetcodeStuff\12.Integer-to-Roman\bin\Debug\net9.0\12.Integer-to-Roman.pdb
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.AssemblyInfoInputs.cache
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.AssemblyInfo.cs
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.csproj.CoreCompileInputs.cache
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.sourcelink.json
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.dll
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\refint\12.Integer-to-Roman.dll
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.pdb
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\12.Integer-to-Roman.genruntimeconfig.cache
+D:\LeetcodeStuff\12.Integer-to-Roman\obj\Debug\net9.0\ref\12.Integer-to-Roman.dll
