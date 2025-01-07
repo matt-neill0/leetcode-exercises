@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        string input = "   ";
+        string input = "  12357245zxf";
         Console.WriteLine($"Extracted Number: {ExtractInteger(input)}");
     }
 

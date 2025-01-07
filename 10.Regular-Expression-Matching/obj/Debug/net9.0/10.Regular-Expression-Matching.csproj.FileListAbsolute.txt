@@ -1,0 +1,15 @@
+d:\Leetcode stuff\10.Regular-Expression-Matching\bin\Debug\net9.0\10.Regular-Expression-Matching.exe
+d:\Leetcode stuff\10.Regular-Expression-Matching\bin\Debug\net9.0\10.Regular-Expression-Matching.deps.json
+d:\Leetcode stuff\10.Regular-Expression-Matching\bin\Debug\net9.0\10.Regular-Expression-Matching.runtimeconfig.json
+d:\Leetcode stuff\10.Regular-Expression-Matching\bin\Debug\net9.0\10.Regular-Expression-Matching.dll
+d:\Leetcode stuff\10.Regular-Expression-Matching\bin\Debug\net9.0\10.Regular-Expression-Matching.pdb
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.GeneratedMSBuildEditorConfig.editorconfig
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.AssemblyInfoInputs.cache
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.AssemblyInfo.cs
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.csproj.CoreCompileInputs.cache
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.dll
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\refint\10.Regular-Expression-Matching.dll
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.pdb
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.genruntimeconfig.cache
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\ref\10.Regular-Expression-Matching.dll
+d:\Leetcode stuff\10.Regular-Expression-Matching\obj\Debug\net9.0\10.Regular-Expression-Matching.sourcelink.json
